@@ -1,0 +1,92 @@
+[
+  {
+    "id": "BBX001",
+    "title": "Midnight Groove",
+    "artist": "K-System",
+    "releaseDate": "2024-01-15",
+    "catalogNumber": "BBX001",
+    "format": "Digital",
+    "genre": "Deep House",
+    "coverImage": "/images/releases/bbx001.jpg",
+    "tracklist": ["Midnight Groove (Original Mix)", "Midnight Groove (Dub Mix)"],
+    "links": {
+      "spotify": "https://spotify.com",
+      "beatport": "https://beatport.com"
+    }
+  },
+  {
+    "id": "BBX002",
+    "title": "Neon Lights",
+    "artist": "Bass Mechanics",
+    "releaseDate": "2024-02-20",
+    "catalogNumber": "BBX002",
+    "format": "Digital",
+    "genre": "Techno",
+    "coverImage": "/images/releases/bbx002.jpg",
+    "tracklist": ["Neon Lights (Original Mix)", "Neon Lights (Remix)"],
+    "links": {
+      "spotify": "https://spotify.com",
+      "beatport": "https://beatport.com"
+    }
+  },
+  {
+    "id": "BBX003",
+    "title": "Solar Flare",
+    "artist": "Aurora Beats",
+    "releaseDate": "2024-03-10",
+    "catalogNumber": "BBX003",
+    "format": "Digital",
+    "genre": "Progressive House",
+    "coverImage": "/images/releases/bbx003.jpg",
+    "tracklist": ["Solar Flare (Original Mix)", "Solar Flare (Extended)"],
+    "links": {
+      "spotify": "https://spotify.com",
+      "beatport": "https://beatport.com"
+    }
+  },
+  {
+    "id": "BBX004",
+    "title": "Urban Jungle",
+    "artist": "The Collective",
+    "releaseDate": "2024-04-05",
+    "catalogNumber": "BBX004",
+    "format": "Digital",
+    "genre": "Tech House",
+    "coverImage": "/images/releases/bbx004.jpg",
+    "tracklist": ["Urban Jungle (Original Mix)", "Urban Jungle (Instrumental)"],
+    "links": {
+      "spotify": "https://spotify.com",
+      "beatport": "https://beatport.com"
+    }
+  },
+  {
+    "id": "BBX005",
+    "title": "Echo Chamber",
+    "artist": "Signal Flow",
+    "releaseDate": "2024-05-18",
+    "catalogNumber": "BBX005",
+    "format": "Digital",
+    "genre": "Melodic Techno",
+    "coverImage": "/images/releases/bbx005.jpg",
+    "tracklist": ["Echo Chamber (Original Mix)", "Echo Chamber (Ambient Version)"],
+    "links": {
+      "spotify": "https://spotify.com",
+      "beatport": "https://beatport.com"
+    }
+  },
+  {
+    "id": "BBX006",
+    "title": "Bass Drop",
+    "artist": "Heavy Hitters",
+    "releaseDate": "2024-06-22",
+    "catalogNumber": "BBX006",
+    "format": "Digital",
+    "genre": "Drum & Bass",
+    "coverImage": "/images/releases/bbx006.jpg",
+    "tracklist": ["Bass Drop (Original Mix)", "Bass Drop (VIP)"],
+    "links": {
+      "spotify": "https://spotify.com",
+      "beatport": "https://beatport.com"
+    }
+  }
+]
