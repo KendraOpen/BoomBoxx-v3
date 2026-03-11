@@ -51,7 +51,7 @@ export default function Home() {
         <div className="relative z-10 text-center px-4 max-w-4xl mx-auto">
           <FadeIn>
             <p className="text-sm tracking-[0.3em] text-zinc-500 uppercase mb-6">
-              Aabybro • Copenhagen • Oslo
+              Denmark
             </p>
           </FadeIn>
           <FadeIn delay={0.1}>
