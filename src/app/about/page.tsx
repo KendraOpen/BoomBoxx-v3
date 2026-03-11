@@ -37,7 +37,7 @@ export default function About() {
           </FadeIn>
           <FadeIn delay={0.1}>
             <p className="text-lg text-zinc-400 leading-relaxed max-w-2xl mx-auto">
-              Born in Stockholm in 2019, BoomBoxx emerged from a shared obsession
+              Born in Aabybro in 2019, BoomBoxx emerged from a shared obsession
               with the aesthetics of Nordic winter - the stark beauty, the long
               nights, the silence between sounds.
             </p>
@@ -79,7 +79,7 @@ export default function About() {
                   <div className="text-center">
                     <p className="text-6xl font-bold text-white/10">2019</p>
                     <p className="text-sm tracking-widest text-white/30 mt-2">
-                      EST. STOCKHOLM
+                      EST. AABYBRO
                     </p>
                   </div>
                 </div>

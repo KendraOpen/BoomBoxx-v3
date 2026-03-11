@@ -151,7 +151,7 @@ export default function Contact() {
                   <p className="text-zinc-400 leading-relaxed">
                     BoomBoxx Records AB<br />
                     Södermalm<br />
-                    Stockholm, Sweden<br />
+                    Aabybro, Denmark<br />
                     116 XX
                   </p>
                 </div>
